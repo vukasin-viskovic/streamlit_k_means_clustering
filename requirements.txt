@@ -4,4 +4,4 @@ numpy
 plotly
 streamlit_lottie
 matplotlib
-sklearn
+scikit-learn
