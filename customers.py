@@ -23,7 +23,7 @@ You can upload and use your own dataset, or just go with the one I provided
 (more info on it can be found [here](https://www.kaggle.com/datasets/srolka/ecommerce-customers?datasetId=85008&searchQuery=k).
 
 If you upload your own dataset, rest assured that it won't be stored anywhere. 
-You can always inspect my source code [here]().
+You can always inspect my source code [here](https://github.com/vuxvix/streamlit_k_means_clustering).
 """
 
 uploaded_file = st.file_uploader("Upload CSV", type = ".csv") ################### Upload ###############
